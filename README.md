@@ -4,8 +4,8 @@ Monokai-Soft
 Sublime Text Color Theme
 
 ## Screenshots
-![Monokai Soft Theme](https://github.com/CalebAmesbury/Monokai-Soft/blob/master/Screenshot.png)
-![Monokai Soft Theme HTML](https://github.com/CalebAmesbury/Monokai-Soft/blob/master/Screenshot2.png)
+![Monokai Soft Theme](https://raw.github.com/CalebAmesbury/Monokai-Soft/master/Screenshot.png)
+![Monokai Soft Theme HTML](https://raw.github.com/CalebAmesbury/Monokai-Soft/master/Screenshot2.png)
 
 
 
@@ -17,6 +17,6 @@ Sublime Text Color Theme
 * Paste the new folder into your Sublime `Packages` directory
 
 
-## Apply the Monokai Soft theme
+## Apply the theme
 
 * `Preferences -> Color Scheme - Monokai Soft`
