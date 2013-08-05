@@ -18,7 +18,7 @@
 	<key>name</key>
 	<string>Monokai Soft</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.monokai_soft</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -33,9 +33,9 @@
 				<key>invisibles</key>
 				<string>#3c4449</string>
 				<key>lineHighlight</key>
-				<string>#8e939e</string>
+				<string>#343e45</string>
 				<key>selection</key>
-				<string>#808b91</string>
+				<string>#353e46</string>
 			</dict>
 		</dict>
 		<dict>
