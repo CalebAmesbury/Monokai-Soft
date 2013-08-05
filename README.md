@@ -1,7 +1,7 @@
 Monokai-Soft
 ============
 
-Sublime Text Color Theme
+A Sublime Text Color Theme Optimized for HTML and CSS
 
 ## Screenshots
 ![Monokai Soft Theme](https://raw.github.com/CalebAmesbury/Monokai-Soft/master/Screenshot.png)
